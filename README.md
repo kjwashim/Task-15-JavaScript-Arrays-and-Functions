@@ -11,7 +11,7 @@ The objective of this assignment is to create JavaScript functions that receive 
 ## Technologies Used
 
 - HTML5
-- JavaScript (ES6)
+- JavaScript
 
 ## Project Structure
 
@@ -35,7 +35,7 @@ JavaScript-Array-Operations/
 
 ## How to Run
 
-1. Clone or download the project.
+1. Clone or download the project. https://github.com/kjwashim/Task-15-JavaScript-Arrays-and-Functions/tree/main
 2. Open the project folder.
 3. Open `index.html` in your browser.
 4. Press **F12** and open the **Console** tab.
