@@ -1,5 +1,5 @@
 # Task-15-JavaScript-Arrays-and-Functions
-Task-15
+---
 # JavaScript Array Operations
 
 A simple JavaScript program that performs different operations on an array using functions.
@@ -35,10 +35,11 @@ JavaScript-Array-Operations/
 
 ## How to Run
 
-1. Clone or download the project. https://github.com/kjwashim/Task-15-JavaScript-Arrays-and-Functions/tree/main
-2. Open the project folder.
-3. Open `index.html` in your browser.
-4. Press **F12** and open the **Console** tab.
+1. Clone or download the project.
+2. https://github.com/kjwashim/Task-15-JavaScript-Arrays-and-Functions/tree/main
+3. Open the project folder.
+4. Open `index.html` in your browser.
+5. Press **F12** and open the **Console** tab.
 
 ## Sample Output
 
